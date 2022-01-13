@@ -1,0 +1,16 @@
+
+o	java:S116"URename this field "so_giocong" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÚÀúÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†çóÇ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¹­Äüÿÿÿÿ
+g
+java:S3457."Q%n should be used in place of \n to produce the platform-specific line separator.(¼µÉ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¼µÉ
+?
+java:S1197A"*Move the array designators [] to the type.(œÖ›
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ş‹¦Àä/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ş‹¦Àä/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¹­Äüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¸Å³
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ±¹Æ

@@ -1,0 +1,17 @@
+
+o	java:S116"URename this field "heso_luong" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·û«õÿÿÿÿÿ
+p	java:S116"VRename this field "luong_coban" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢±Âƒşÿÿÿÿ
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù«€ şÿÿÿÿ
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•ØÏüÿÿÿÿ
+h	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÅÂÿÿÿÿÿ
+c	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»•è
+l
+java:S3457<"Q%n should be used in place of \n to produce the platform-specific line separator.(Çæ±íıÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(Çæ±íıÿÿÿÿ
+?
+java:S1197Q"*Move the array designators [] to the type.(œÖ›
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßâ§ıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßâ§ıÿÿÿÿ
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•ØÏüÿÿÿÿ8 Œ¥ÔŞ/
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»•è8 Œ¥ÔŞ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ±¹Æ

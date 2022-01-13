@@ -1,0 +1,45 @@
+
+c	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(««¨
+h	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒö¾Ëÿÿÿÿÿ
+h	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÓÚ®øÿÿÿÿ
+i	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï››¾ùÿÿÿÿ
+W
+java:S1854¦"@Remove this useless assignment to local variable "checkInteger".(»ƒêŒ
+W
+java:S1854¢"@Remove this useless assignment to local variable "checkInteger".(ˆ²úï
+\
+java:S1854¨"@Remove this useless assignment to local variable "checkInteger".(ë£ıÿÿÿÿ
+Q	java:S125x"<This block of commented-out lines of code should be removed.(ÙåØÙ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(•˜Ëøÿÿÿÿ
+M
+java:S1481"1Remove this unused "checkInteger" local variable.(±áÉ×úÿÿÿÿ
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(æ¿¡
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(É†è
+d	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò”‹è
+i
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ò”‹è
+V
+java:S1854Á":Remove this useless assignment to local variable "length".(¼ìŒëıÿÿÿÿ
+R
+java:S1854Ö";Remove this useless assignment to local variable "sanPham".(í«“
+G
+java:S1481Á"+Remove this unused "length" local variable.(¼ìŒëıÿÿÿÿ
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106È"9Replace this use of System.out or System.err by a logger.(Ü‹’ë
+O	java:S106Í"9Replace this use of System.out or System.err by a logger.(ã¨ëñ
+>
+java:S1125Ğ"'Remove the unnecessary boolean literal.(¹´—†
+C
+java:S1481Ö",Remove this unused "sanPham" local variable.(í«“
+O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(‡í•û
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(æ—ÏÂùÿÿÿÿ
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(âµú
+[	java:S106ô"9Replace this use of System.out or System.err by a logger.(×€—¹şÿÿÿÿ8¯‘Ê ä/
+V	java:S106û"9Replace this use of System.out or System.err by a logger.(¡´»Ê8°‘Ê ä/
+J
+java:S1121¨".Extract the assignment out of this expression.(ë£ıÿÿÿÿ
+V	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(Ã™à
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ±¹Æ
+T
+java:S2589¨"8Remove this expression which always evaluates to "false"(ë£ıÿÿÿÿ

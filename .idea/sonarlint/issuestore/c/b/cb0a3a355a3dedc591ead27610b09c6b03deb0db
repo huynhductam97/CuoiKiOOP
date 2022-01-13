@@ -1,0 +1,33 @@
+
+u
+java:S1210˜"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(çö»øÿÿÿÿ
+T
+java:S5993"9Change the visibility of this constructor to "protected".(ÁÒ€§ÿÿÿÿÿ
+T
+java:S5993K"9Change the visibility of this constructor to "protected".(ö²ñ¿ıÿÿÿÿ
+V
+java:S5993O"9Change the visibility of this constructor to "protected".(¼²Š8¼’™ÔŞ/
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ï¾‘
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(‹ç¾şÿÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(¸ø–õúÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ö¬âò
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(½Ä®¾øÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(¸ø–õúÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ö¬âò
+h	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‘‹ÿÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(‹ç¾şÿÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(±èóüÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(ˆÈûüÿÿÿÿ
+>
+java:S1125€"'Remove the unnecessary boolean literal.(÷øôé
+d	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÚõ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(……Èó
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–€ÄN8¡Íª˜ä/
+>
+java:S1125’"'Remove the unnecessary boolean literal.(÷øôé
+@
+java:S1197"*Move the array designators [] to the type.(œÖ›
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+s	java:S135m"YReduce the total number of break and continue statements in this loop to use at most one.(«ıøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ±¹Æ

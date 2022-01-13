@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(é¥Í›ÿÿÿÿÿ8ÃÖı»Ş/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(©õ…Ğøÿÿÿÿ8ÆÖı»Ş/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Õ¶¼ƒûÿÿÿÿ8ÇÖı»Ş/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ÙíÍĞ8ÉÖı»Ş/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ô©£úÿÿÿÿ8ÊÖı»Ş/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Áˆûşÿÿÿÿ8ËÖı»Ş/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(Óöª8ÌÖı»Ş/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(òÄ‚8ÍÖı»Ş/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(±¾¨Ê8ÎÖı»Ş/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ïì¦8ÏÖı»Ş/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ÆÀ³À8ĞÖı»Ş/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ØŸ´İÿÿÿÿÿ8ÒÖı»Ş/
+D
+java:S1125W"'Remove the unnecessary boolean literal.(íêš’8İÖı»Ş/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ±¹Æ

@@ -1,0 +1,24 @@
+
+o
+java:S1210X"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ƒĞ†´
+T
+java:S5993"9Change the visibility of this constructor to "protected".(ˆ©‰Ûıÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(‰¤Ë…
+M	java:S106:"9Replace this use of System.out or System.err by a logger.(Œš+
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(¤Ô¼³
+h	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¡’¸üÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(¦ú¤˜ùÿÿÿÿ
+M	java:S106Q"9Replace this use of System.out or System.err by a logger.(Œš+
+c	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‡üâ
+M	java:S106a"9Replace this use of System.out or System.err by a logger.(Ç£¿t
+M	java:S106e"9Replace this use of System.out or System.err by a logger.(şï²W
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(¿ıúäşÿÿÿÿ
+=
+java:S1125r"'Remove the unnecessary boolean literal.(÷øôé
+c	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èËïæ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(”ËŒè
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ë™î¨
+>
+java:S1125†"'Remove the unnecessary boolean literal.(÷øôé
+s	java:S135_"YReduce the total number of break and continue statements in this loop to use at most one.(«ıøÿÿÿÿ

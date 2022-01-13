@@ -1,0 +1,22 @@
+
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒö¾Ëÿÿÿÿÿ
+P	java:S1256"<This block of commented-out lines of code should be removed.(½ëĞ
+I
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+J
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ
+F
+java:S1128	"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÊäÏ’
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ±¹Æ
